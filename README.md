@@ -1,13 +1,23 @@
-Olá, tudo bem ? 🖖
+Olá! Eu sou o Rafael Souza Osadzuk 👋
+Sou um profissional de tecnologia apaixonado por resolver problemas através de dados e código. Atualmente, atuo na Agrotis trabalhando com rotinas de software e consultas avançadas em banco de dados, e estou em transição acadêmica e prática para o universo de Data Science.
 
-♦️ Sou de São José dos pinhais, meus hobbies incluem videogames, tocar guitarra e fazer academia, sem contar que eu amo jogar vôlei 
+O que estou construindo e estudando no momento:
 
-♦️ Venho estudando e me aperfeiçoando em tecnologias de desenvolvimento back-end com relação a Java e seu framework Spring, ando em busca da minha primeira experiência profissional para ingressar nessa área de tecnologia que sempre gostei desde adolescente 
+🎓 Iniciando a pós-graduação em Inteligência Artificial e Ciência de Dados pela PUCPR.
 
-♦️ para inicio quero me tornar um Dev back-end Java, estou cursando Engenharia de Software na Unicesumar em Curitiba com prévia de termino em dez/2025
+🐍 Aprofundando conhecimentos em Python e conceitos de ciências/engenharia de dados através da Data Science Academy.
 
-♦️ espero poder encontrar projetos freelance ou estágios não remunerados nessa área para que eu possa começar a trilhar esta carreira que sempre desejei
+📊 Desenvolvendo projetos de ponta a ponta, como pipelines de ETL e análise de bases reais de E-commerce (Kaggle) utilizando Pandas e NumPy.
 
-♦️Contatos: telefone: (41) 989000271
-            Email: rafael.osadzuk@gmail.com
-            LinkedIn:https://www.linkedin.com/in/rafael-souza-osadzuk-7b952726b/
+🎓 Recém-graduado pela UniCesumar em Engenharia de Software.
+
+Minhas principais ferramentas:
+
+Linguagens: Python, SQL
+
+Data Science: Pandas, NumPy, Análise de Dados, Tratamento e Limpeza
+
+Ferramentas: Git, GitHub, Ambientes de Desenvolvimento Integrado (IDEs)
+
+📫 Como me encontrar: https://www.linkedin.com/in/rafael-souza-osadzuk-7b952726b/?isSelfProfile=true
+
